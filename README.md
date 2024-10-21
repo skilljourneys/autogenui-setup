@@ -35,3 +35,4 @@ Note: to run this in the background so it doesn’t end when the terminal ends, 
 #### Access AutoGen Studio
 
 Open your web browser and go to `http://<your-instance-dns-ip>:8081/`. You should now see the AutoGen Studio interface.
+
